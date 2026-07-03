@@ -10,7 +10,7 @@ PRD en attente, les implémente, ouvre une PR draft, et notifie Relay.
 ## Installation
 
 ```bash
-claude plugin marketplace add relay-app/relay-plugin
+claude plugin marketplace add jdecampos/relay-plugin
 claude plugin install relay-delivery@relay-app
 echo 'RELAY_DELIVERY_KEY=rly_xxx' >> .env.local   # clé fournie par Relay (Settings du projet)
 ```
