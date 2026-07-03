@@ -1,0 +1,11 @@
+{
+  "name": "relay-app",
+  "owner": { "name": "Relay", "url": "https://relay.app" },
+  "plugins": [
+    {
+      "name": "relay-delivery",
+      "source": "./relay-delivery",
+      "description": "Traite les PRD Relay en attente dans .ticket/ : implémente le code, commit, ouvre une PR draft, et notifie Relay."
+    }
+  ]
+}
