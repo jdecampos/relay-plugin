@@ -1,6 +1,6 @@
 {
   "name": "relay-delivery",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Livraison des PRD Relay : lit .ticket/, implémente les PRD en attente, commit + PR draft, puis notifie Relay via callback. Tourne sur ton abonnement Claude Code — aucun token API côté serveur.",
   "author": { "name": "Relay", "url": "https://relay.app" },
   "keywords": ["relay", "prd", "delivery", "workflow"]
