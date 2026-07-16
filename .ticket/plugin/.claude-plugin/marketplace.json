@@ -1,0 +1,11 @@
+{
+  "name": "tikett-app",
+  "owner": { "name": "Tikett", "url": "https://tikett.app" },
+  "plugins": [
+    {
+      "name": "tikett-delivery",
+      "source": "./tikett-delivery",
+      "description": "Traite les PRD Tikett en attente dans .ticket/ : implémente le code, commit, ouvre une PR draft, et notifie Tikett."
+    }
+  ]
+}
