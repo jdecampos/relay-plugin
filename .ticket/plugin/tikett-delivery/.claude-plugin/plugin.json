@@ -1,0 +1,7 @@
+{
+  "name": "tikett-delivery",
+  "version": "0.2.0",
+  "description": "Livraison des PRD Tikett : lit .ticket/, implémente les PRD en attente, commit + PR draft, puis notifie Tikett via callback. Tourne sur ton abonnement Claude Code — aucun token API côté serveur.",
+  "author": { "name": "Tikett", "url": "https://tikett.app" },
+  "keywords": ["tikett", "prd", "delivery", "workflow"]
+}
